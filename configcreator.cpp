@@ -138,9 +138,6 @@ void ConfigCreator::genarateButtonClicked()
         }
 
 
-
-
-
         root.appendChild(tag);
         root.appendChild(templateGroup);
         root.appendChild(connection);
